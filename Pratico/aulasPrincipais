@@ -12,3 +12,8 @@ CONTROLES:
 
 ARRAY_SLICE_MAP:
 -todos
+
+FUNCOES:
+-comoParametro
+-retornoNomeado
+-primeiraClasse
