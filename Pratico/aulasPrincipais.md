@@ -17,3 +17,10 @@ FUNCOES:
 -comoParametro
 -retornoNomeado
 -primeiraClasse
+-defer
+-ponteiro
+-variaticaSlice
+-variatico
+
+TIPOS:
+-struct
